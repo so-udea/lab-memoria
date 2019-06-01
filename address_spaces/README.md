@@ -2,6 +2,7 @@
 
 In this homework, we’ll just learn about a few useful tools to examine virtual memory usage on Linux-based systems. This will only be a brief hint at what is possible; you’ll have to dive deeper on your own to truly become an expert (as always!).
 
+En esta tarea, apronderemos sobre unas herramientas utiles para examinaar el uso de memoria virtual de sistemas basados en linux. Esto será un breve tipo. Será mecesaro convertirse en un verdadero, a medidavd qun nos vayamos a dormir
 ## Questions ##
 
 1. The first Linux tool you should check out is the very simple tool free. First, type man free and read its entire manual page; it’s short, don’t worry!
